@@ -35,7 +35,7 @@ O projeto foi executado focado em estabilidade e performance corporativa:
 
 ## 📊 Resultados e Recomendações de Negócios
 
-Através da modelagem, segmentamos os clientes em 3 grupos de risco. Descobrimos que o **Grupo 1 (Baixo Risco)** — pessoas com ensino superior e bens, ou idosos acima de 60 anos — representa **~24% da base**, com uma taxa de inadimplência de apenas **4,9%**. 
+Através da modelagem, segmentamos os clientes em 3 grupos de risco. Descobrimos que o **Grupo 1 (Baixo Risco)** são pessoas com ensino superior e bens, ou idosos acima de 60 anos, representando **~24% da base**, com uma taxa de inadimplência de apenas **4,9%**. 
 
 Em contrapartida, o Grupo 3 (Alto Risco) chega a **13%** de inadimplência, quase o triplo do risco.
 
