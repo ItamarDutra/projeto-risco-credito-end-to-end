@@ -5,7 +5,7 @@
 ## 📌 Resumo Executivo
 Utilizando **Python, PostgreSQL e Power BI**, construí um pipeline completo de dados para analisar o comportamento de crédito de mais de 300 mil clientes. O objetivo foi mapear o risco de inadimplência e otimizar a tomada de decisão. 
 
-A análise revelou padrões claros de comportamento, permitindo segmentar os clientes em faixas de risco. Descobrimos que focar em um "Grupo Ouro" específico pode reduzir a inadimplência em até **3 vezes** comparado ao grupo de alto risco. O projeto entregou uma base de dados otimizada e um dashboard automatizado para a diretoria.
+A análise revelou padrões claros de comportamento, permitindo segmentar os clientes em faixas de risco. Descobri que focar em um "Grupo Ouro" específico pode reduzir a inadimplência em até **3 vezes** comparado ao grupo de alto risco. O projeto entregou uma base de dados otimizada e um dashboard automatizado para a diretoria.
 
 ---
 
